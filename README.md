@@ -16,4 +16,4 @@ _Проект о путешествии по России в виде адапт
 * Figma
 
 ## Ссылка на проект:
-[https://siberianmishka.github.io/russian-travel/]
+[https://siberianmishka.github.io/russian-travel/index.html]
