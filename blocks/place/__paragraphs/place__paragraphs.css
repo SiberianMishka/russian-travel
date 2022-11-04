@@ -1,0 +1,9 @@
+.place__paragraphs {
+  color: #fff;
+}
+
+@media screen and (max-width: 568px) {
+  .place__paragraphs  {
+    margin: auto 16px;
+  }
+}
