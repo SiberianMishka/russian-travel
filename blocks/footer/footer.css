@@ -7,21 +7,16 @@
   color: #FFFFFF;
 }
 
-@media screen and (max-width: 984px) {
+@media screen and (max-width: 968px) {
   .footer {
     width: calc(100% - 24px*2);
   }
 }
 
-@media screen and (max-width: 620px) {
-  .footer {
-    flex-direction: column;
-  }
-}
-
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 750px) {
   .footer {
     width: calc(100% - 16px - 118px);
     margin-left: 16px;
+    flex-direction: column;
   }
 }

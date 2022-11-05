@@ -11,7 +11,7 @@
   }
 }
 
-@media screen and (max-width: 984px) {
+@media screen and (max-width: 968px) {
   .places {
     width: calc(100% - 24px*2);
     grid-row-gap: 72px;

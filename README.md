@@ -14,6 +14,7 @@ _Проект о путешествии по России в виде адапт
 * Media запросы
 * Организация файлов по БЭМ
 * Figma
+* Pixel Perfect
 
 ## Ссылка на проект:
 [https://siberianmishka.github.io/russian-travel/index.html]

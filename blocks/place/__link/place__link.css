@@ -5,6 +5,10 @@
   font-size: 18px;
   line-height: 22px;
   text-decoration-line: underline;
+  transition: .2s ease-in;
   color: #FFFFFF;
 }
 
+.place__link:hover {
+  opacity: 0.8;
+}
